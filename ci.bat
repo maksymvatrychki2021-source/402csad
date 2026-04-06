@@ -1,9 +1,19 @@
-git clone https://github.com/microsoft/vcpkg.git
-cd vcpkg
-bootstrap-vcpkg.bat
-vcpkg install gtest
-mkdir build
+@echo off
+setlocal
+
+echo == Create build directory ==
+if not exist build mkdir build
+
+echo == Enter build directory ==
 cd build
-cmake .. -DCMAKE_TOOLCHAIN_FILE=../vcpkg/scripts/buildsystems/vcpkg.cmake
-cmake --build . --config Release
-ctest --output-on-failure
+
+echo == Run CMake ==
+cmake .. -DCMAKE_BUILD_TYPE=Debug
+
+echo == Build project ==
+cmake --build . --config Debug
+
+echo == Run tests ==
+ctest --output-on-failure -C Debug
+
+endlocal
