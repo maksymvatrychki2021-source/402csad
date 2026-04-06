@@ -118,5 +118,5 @@ def main():
             writer.writeheader()
             writer.writerows(rows_to_write)
 
-if name == "main":
+if __name__ == "__main__":
     main()
