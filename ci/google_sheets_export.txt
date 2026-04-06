@@ -2,7 +2,7 @@ function exportSheetToGitHub() {
   // --- НАЛАШТУВАННЯ ---
   const GITHUB_TOKEN = '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'; // Вставте актуальний токен
   const REPO_OWNER = 'maksymvatrychki2021-source';
-  const REPO_NAME = 'Vatrych_4';
+  const REPO_NAME = '402csad';
   const FILE_PATH = 'input/groups.csv';
   const SHEET_NAME = 'Список';
   const BRANCH = 'feature/aspt'; // Ваша гілка
