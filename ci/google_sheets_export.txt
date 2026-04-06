@@ -1,11 +1,11 @@
 function exportSheetToGitHub() {
   // --- НАЛАШТУВАННЯ ---
-  const GITHUB_TOKEN = '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'; // Вставте актуальний токен
+  const GITHUB_TOKEN = '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'; // Вставте актуальний токен
   const REPO_OWNER = 'maksymvatrychki2021-source';
   const REPO_NAME = 'Vatrych_4';
-  const FILE_PATH = 'input/groups.csv';
+  const FILE_PATH = 'input/402.csv';
   const SHEET_NAME = 'Список';
-  const BRANCH = 'main'; // Ваша гілка
+  const BRANCH = 'develop'; // Ваша гілка
   // ---------------------
 
   const ss = SpreadsheetApp.getActiveSpreadsheet();
