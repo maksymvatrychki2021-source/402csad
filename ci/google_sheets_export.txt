@@ -1,6 +1,6 @@
 function exportSheetToGitHub() {
   // --- НАЛАШТУВАННЯ ---
-  const GITHUB_TOKEN = 'ВСТАВТЕ_ТУТ_ВАШ_ТОКЕН'; // Вставте актуальний токен
+  const GITHUB_TOKEN = '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'; // Вставте актуальний токен
   const REPO_OWNER = 'viktorlevytskyiki2022-tech';
   const REPO_NAME = 'csad-task1';
   const FILE_PATH = 'input/groups.csv';
