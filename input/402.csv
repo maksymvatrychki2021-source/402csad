@@ -1,13 +1,19 @@
 Варіант,Прізвище,Ім'я,По-батькові,телефон,НУЛП емейл,емейл,git name,402,коментар
 1,Бігун,Тарас,,,taras.bihun.ki.2022@lpnu.ua,taras.bihun.ki.2022@lpnu.ua,taras_bihun_ki_2022_lpnu_ua,402csad1,
 2,Богдан,Роман,,,roman.bohdan.ki.2022@lpnu.ua,roman.bohdan.ki.2022@lpnu.ua,roman_bohdan_ki_2022_lpnu_ua,402csad2,
-3,Варварич,Роман ,Миколайович,977299170,roman.varvarych.ki.2022@lpnu.ua,roman.varvarych.ki.2022@lpnu.ua,roman_varvarych_ki_2022_lpnu_ua,402csad3,
+3,Варварич,Роман ,Миколайович,977299170,roman.varvarych.ki.2022@lpnu.ua
+,roman.varvarych.ki.2022@lpnu.ua
+,roman_varvarych_ki_2022_lpnu_ua
+,402csad3,
 ,Ватрич,Максим,,,maksym.vatrych.ki.2021@lpnu.ua,maksym.vatrych.ki.2021@lpnu.ua,maksymvatrychki2021-source,402csad,
 4,Гладинюк,Олег,,,oleh.hladyniuk.ki.2022@lpnu.ua,oleh.hladyniuk.ki.2022@lpnu.ua,oleh_hladyniuk_ki_2022_lpnu_ua,402csad4,
 5,Дворянин,Денис-Борис,,,denys-borys.dvorianyn.ki.2022@lpnu.ua,denys-borys.dvorianyn.ki.2022@lpnu.ua,denys-borys_dvorianyn_ki_2022_lpnu_ua,402csad5,
 6,Іванків,Олександр,,,oleksandr.ivankiv.ki.2022@lpnu.ua,oleksandr.ivankiv.ki.2022@lpnu.ua,oleksandr_ivankiv_ki_2022_lpnu_ua,402csad6,
 7,Кісілюк,Максим,Володимирович,682858830,Maksym.kisiliuk.ki.2022@lpnu.ua,Maksym.kisiliuk.ki.2022@lpnu.ua,maksym_kisiliuk_ki_2022_lpnu_ua,402csad7,
-8,Ковалик,Артем ,,,artem.kovalyk.ki.2022@lpnu.ua,artem.kovalyk.ki.2022@lpnu.ua,artem_kovalyk_ki_2022_lpnu_ua,402csad8,
+8,Ковалик,Артем ,,,artem.kovalyk.ki.2022@lpnu.ua
+,artem.kovalyk.ki.2022@lpnu.ua
+,artem_kovalyk_ki_2022_lpnu_ua
+,402csad8,
 9,Кузьмін,Антон,,,anton.kuzmin.ki.2022@lpnu.ua,anton.kuzmin.ki.2022@lpnu.ua,anton_kuzmin_ki_2022_lpnu_ua,402csad9,
 10,Куніцкий,Владислав,,,vladyslav.kunitskyi.ki.2022@lpnu.ua,vladyslav.kunitskyi.ki.2022@lpnu.ua,vladyslav_kunitskyi_ki_2022_lpnu_ua,402csad10,
 11,Лах,Максим,Богданович,965415464,maksym.lakh.ki.2022@lpnu.ua,maksym.lakh.ki.2022@lpnu.ua,maksym_lakh_ki_2022_lpnu_ua,402csad11,
