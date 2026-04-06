@@ -1,8 +1,8 @@
 function exportSheetToGitHub() {
   // --- НАЛАШТУВАННЯ ---
   const GITHUB_TOKEN = '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'; // Вставте актуальний токен
-  const REPO_OWNER = 'viktorlevytskyiki2022-tech';
-  const REPO_NAME = 'csad-task1';
+  const REPO_OWNER = 'maksymvatrychki2021-source';
+  const REPO_NAME = 'Vatrych_4';
   const FILE_PATH = 'input/groups.csv';
   const SHEET_NAME = 'Список';
   const BRANCH = 'main'; // Ваша гілка
