@@ -1,12 +1,3 @@
-@echo off
-REM CI script for Windows build
-
-if not exist build (
-    mkdir build
-)
-cd build
-
-cmake ..
-cmake --build . --config Release
-
-ctest --output-on-failure
+git clone https://github.com/microsoft/vcpkg.git
+cd vcpkg
+bootstrap-vcpkg.bat
