@@ -1,5 +1,5 @@
 const CONFIG = {
-  githubToken: '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', // <--- ВСТАВ ТОКЕН
+  githubToken: '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', // <--- ВСТАВ ТОКЕН
   repoOwner: 'maksymvatrychki2021-source', 
   repoName: 'Vatrych_4',   // <--- НАЗВУ РЕПО СЮДА          
   inputPath: 'input/groups.csv',
