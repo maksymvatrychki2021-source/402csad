@@ -1,6 +1,6 @@
 function exportSheetToGitHub() {
   // --- НАЛАШТУВАННЯ ---
-  const GITHUB_TOKEN = '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'; // Вставте актуальний токен
+  const GITHUB_TOKEN = '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'; // Вставте актуальний токен
   const REPO_OWNER = 'viktorlevytskyiki2022-tech';
   const REPO_NAME = 'Vatrych_4';
   const FILE_PATH = 'input/groups.csv';
