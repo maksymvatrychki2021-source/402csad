@@ -128,6 +128,6 @@ def main():
             writer = csv.DictWriter(outfile, fieldnames=new_fieldnames)
             writer.writeheader()
             writer.writerows(rows_to_write)
-  if __name__ == "__main__":
+if __name__ == "__main__":
     main()
  
